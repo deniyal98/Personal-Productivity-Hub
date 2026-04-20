@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "A personal productivity hub featuring a Pomodoro focus timer and a task manager with local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
